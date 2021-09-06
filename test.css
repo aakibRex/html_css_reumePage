@@ -147,7 +147,7 @@ header img {
 .left-half{
 
     
-    background-color:orange;
+    background-color:orangered;
     position: relative; bottom: 265px;
     height: 300px;
     width: 350px;
@@ -287,7 +287,7 @@ th{
 .right-half h2 {
     
     font-size: 28px;
-    color:gold;
+    color:white;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
