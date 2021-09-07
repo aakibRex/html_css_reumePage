@@ -147,7 +147,7 @@ header img {
 .left-half{
 
     
-    background-color:orangered;
+    background-color:lightblue;
     position: relative; bottom: 265px;
     height: 300px;
     width: 350px;
@@ -294,7 +294,7 @@ th{
 .right-half li {
     
     font-size: 20px;
-    color:orange;
+    color:rgb(238, 78, 20);
     font-family: Georgia, 'Times New Roman', Times, serif;
 }
 
